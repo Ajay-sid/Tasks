@@ -1,0 +1,56 @@
+Locators for the given link - "https://www.guvi.in/register
+
+ID:
+
+* First name field: id="fname"
+* Last name field: id="lname"
+* Email field: id="email"
+* Password field: id="password"
+* Confirm password field: id="confirm_password"
+* Phone number field: id="phonenumber"
+* Terms and Conditions checkbox: id="terms"
+* Register button: id="register"
+
+Class Name:
+
+* First name field: class="form-control".
+* Last name field: class="form-control".
+* Email field: class="form-control".
+* Password field: class="form-control".
+* Confirm password field: class="form-control".
+* Phone number field: class="form-control".
+* Terms and Conditions checkbox: class="custom-control-input".
+* Register button: class="btn btn-success btn-block".
+
+Tag Name:
+
+* Input fields: input.
+* Terms and Conditions checkbox: input.
+* Register button: button.
+
+CSS Selector:
+
+* First name field: input#fname or input.form-control[name='fname'].
+* Last name field: input#lname or input.form-control[name='lname'].
+* Email field: input#email or input.form-control[name='email'].
+* Password field: input#password or input.form-control[name='password'].
+* Confirm password field: input#confirm_password or input.form-control[name='confirm_password'].
+* Phone number field: input#phonenumber or input.form-control[name='phonenumber'].
+* Terms and Conditions checkbox: input#terms or input.custom-control-input[name='terms'].
+* Register button: button#register or button.btn.btn-success.btn-block.
+
+XPath:
+
+* First name field: //input[@id='fname'] or //input[@name='fname'].
+* Last name field: //input[@id='lname'] or //input[@name='lname'].
+* Email field: //input[@id='email'] or //input[@name='email'].
+* Password field: //input[@id='password'] or //input[@name='password'].
+* Confirm password field: //input[@id='confirm_password'] or //input[@name='confirm_password'].
+* Phone number field: //input[@id='phonenumber'] or //input[@name='phonenumber'].
+* Terms and Conditions checkbox: //input[@id='terms'] or //input[@name='terms'].
+* Register button: //button[@id='register'] or //button[@class='btn btn-success btn-block'].
+* Remember to validate these locators based on the actual HTML structure of the page.
+
+
+
+
